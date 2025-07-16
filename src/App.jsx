@@ -1,6 +1,4 @@
-import { useState } from 'react';
 import './App.scss';
-import data from './assets/data';
 import Header from './components/Header';
 import Menu from './components/Menu';
 import { Route, Routes } from 'react-router-dom';

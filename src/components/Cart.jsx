@@ -1,4 +1,4 @@
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector, useDispatch } from 'react-redux';
 import data from '../assets/data';
 import { removeFromCart } from '../redux/redux';
 
